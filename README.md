@@ -14,6 +14,8 @@ Seaborn: For heatmaps and advanced visualizations
 ✅ Correlation heatmap between pollutants
 ✅ Custom visualizations using Seaborn & Matplotlib
 📊 Sample Visuals
+![Screenshot 2025-04-16 010926](https://github.com/user-attachments/assets/4fc80a6d-beac-4469-9a0b-f0967ca8f8f2)
+
 ![Screenshot 2025-04-16 011015](https://github.com/user-attachments/assets/b04a0223-90dc-4870-9c3e-bb6ffd01f238)
 ![Screenshot 2025-04-16 011221](https://github.com/user-attachments/assets/2e4b0cbd-e088-4e4a-bdec-d3b2e261c935)
 ![Screenshot 2025-04-16 011033](https://github.com/user-attachments/assets/162b0a8e-674a-4cab-b802-290ee11813d3)
