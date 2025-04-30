@@ -6,14 +6,14 @@ Pandas: For data manipulation and cleaning
 Matplotlib: For line graphs and customization
 Seaborn: For heatmaps and advanced visualizations
 📌This Project Covers
-✅ Data loading and cleaning
-✅ Basic exploration (head, describe, info, null check)
-✅ Time trend analysis using line graphs
-✅ Outlier detection using box plots
-✅ Top polluted cities using bar charts
-✅ Correlation heatmap between pollutants
-✅ Custom visualizations using Seaborn & Matplotlib
-📊 Sample Visuals
+ Data loading and cleaning
+Basic exploration (head, describe, info, null check)
+ Time trend analysis using line graphs
+ Outlier detection using box plots
+ Top polluted cities using bar charts
+ Correlation heatmap between pollutants
+ Custom visualizations using Seaborn & Matplotlib
+ Sample Visuals
 ![Screenshot 2025-04-16 010926](https://github.com/user-attachments/assets/4fc80a6d-beac-4469-9a0b-f0967ca8f8f2)
 
 ![Screenshot 2025-04-16 011015](https://github.com/user-attachments/assets/b04a0223-90dc-4870-9c3e-bb6ffd01f238)
